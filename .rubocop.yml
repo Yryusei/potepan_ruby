@@ -1,0 +1,9 @@
+
+AllCops:
+  NewCops: enable
+  SuggestExtensions: false
+Metrics/AbcSize:
+  Enabled: true
+  Max: 25
+Metrics/MethodLength:
+  Max: 20
