@@ -2,5 +2,4 @@
 
 require './lib/zyanken'
 
-zyanken = Zyanken.new
-zyanken.zyanken_app
+Zyanken.new.zyanken_app
