@@ -15,8 +15,7 @@
 - ライブラリー
   - lib/zyanken.rb
 
-## ローカルに閉じ込める 
+## ローカルに閉じ込めてあるか確認
 
-- bundle config set --local path vendor/bundle
 - 確認
   - bundle config
